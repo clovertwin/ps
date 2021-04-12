@@ -44,7 +44,8 @@ body {
 }
 
 .contact-me {
-  margin: 50px auto auto auto;
+  margin: 100px auto auto auto;
+  width: 50%
 }
 
 h1 {
